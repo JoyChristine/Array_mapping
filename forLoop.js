@@ -24,8 +24,8 @@ alert(total);  // 15
 // console.log(total);
 
 //OPTION 4
-// var total = 0;
-// for(var index =1;index<=5;index++){
-//     total += index;
-// }
-// console.log(total)
+var total = 0;
+for(var index =1;index<=5;index++){
+    total += index;
+}
+console.log(total)
