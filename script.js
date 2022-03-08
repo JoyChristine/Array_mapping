@@ -12,6 +12,9 @@
 // });
 // console.log(doubledNumbers);
 
+
+
+
 //using map() to double
 // var numbers =[1,2,3,4,5,6];
 // var doubledNumbers = numbers.map((number) => {
@@ -32,3 +35,5 @@
 // });
 // console.log(deck)
 
+// var foo = "bar";
+// console.log(`lets meet at the ${foo}`)
